@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/6e588b3fd6f651ba4b1eef517b9e2a751e688ca7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5464d1b11e09f5d37a21601202bedeff49205905/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/19e830d78371d3a7b105b93b1cc843309faebcb2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5cce3f326f17437e520e864325f5dd42b22e10a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ee64e8c1d95abcd2e28ff9c14da4904b06db726">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_06bffa70a39270772bcf7994fdf9197ff550df33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/daf1ea720ab66d94ee9b0031b2ce98960cd24bf5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1e18d5aa65feecacca1ca76c211ea81407f90751/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/bfaf0d9b88860e577d4630f2420f987dd47d277c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5cadfc3b1777bfc19747bf7faa904f9103694f87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/9b14f1f93af345640a3569372730782118ece780/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4890db1d6ac729f685e14b61f0f5fa0a96de58a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/d45abacc9d1cf6bab4a0f7d9e48971fdfcf83a21/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35105239b11027238f15f79d7e5060e99b18af0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/4da603dd8325b3be43c1cf14199fbf8c60484311/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f21c5b476c321afd9e95677dc41f09e412a8036/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/2dd0303e5ae06ff159bf970d832f79c7f2b3488f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c25e26aa107cc4501067c3647ede5af60b38e573/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/abd1ef002c32c9f1a6aa244abac1569b434738fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_198d5e0643b43a58ebb0606d28a0548f8d5615a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/5cbaf24228aeddc1d0cfffbc8a7887675284558a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18e4d2146490b76b3282f1949ed6ffd052a0fc23">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec40685554f1b4461f1cce643f81d9a258b7eae8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/452999aae626f64213904e07d936bab9d83ad2cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b1c3d95e5c047792e3cb14877cd65cc4b9dbe36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/c61df8627453e474d3bdd7ee33a62992c63c766a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1e90bcceb9b638ae1787b8af9ac3f5746ccdbc73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/791b55e592b3cd2fba5e07239bac85a83c7e7594/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_472d8db2c49bb865e09435a79a976639cdbf9990/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/c3e47bc39324f2035e3f4e54e6deea59df9d2b22/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b40188f6b831232e1f41efc50a9ca04fcb6a312a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/4937cf62f7ae2177de9e2f81cce49cc7bb6caf68/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_089417278985fdf10f0e5d343cba49c87a2e6d6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/6483689c880f364479a29d5cb6c38772050f42a4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b09f58be4a6d268b3afb1a9738e28e29f796a0f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.7.3/92568d7167ce1bf9eb1fd815b022d5a2c113547a/jsoup-1.7.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92568d7167ce1bf9eb1fd815b022d5a2c113547a">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsoup-1.7.3_859dd2ae7f26e65130fe7404aa0893ee46e36db1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/9df68be453449acb762be704ec1b1a34264d8a27/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ae0f0db0c2dc7df241a65cf7d893d47613b00ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_8743c2764c92b31b51803d68f8caa9b037911f98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/5d157a072046cd577edf842abb60699a5d1aaf22/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8bac69addb2bca1ab23bf3e5acee46fd0f5be2ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/bf359f0c686f28b7fbbf461aaa3e45dae7f5e979/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bbdba3d5163b72d2343c7f59eb383ecaf0394d8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/d970ddc439817a0509f95b4a6df1aa6cbaa1e035/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f8d14005d7161ba71fae54d52a92fa573daabe0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta4_cc53966efc04d37b7e7f0de74a17cca05257392c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2fbdfef027f19939820542e6080e06ad9c1f8d21">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_187b31e9dc8f3dd487c40990cb7de97e7df010ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/6f2fa1a220b8b1374b27b26e4045ce1579094c13/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57fdfd85997a630a3a15861fea34c597a86963ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/7d348771abfcbbfea1496bd9b2009b67635d63c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_007a67faf006a4e1b6f03353205e58289ad1995e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/f240f7c8415b387c29df7f2a200c0e6fbe1dce66/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f57e101e04cfa5c0f5a430832f3718a64c5df59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/0e68a7f0523c7daf40a8c8d58e8137377da5dd37/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12f23143dd1a836804158d4b73371f01b1209bd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/707169f58148b2c87aab651189b668843d9689b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57c67342cebc885aab5bb41d1a2861ce8b0b05a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elvis/.android/build-cache/b656933af81b178797123117a1b0e2ddf9a545bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/home/elvis/GoogleDrive/Trabalho/NowItGoesApps/FGTSInativo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e92cd9229c6f26da8927ff127ae6142e4157dad/classes.dex" />
+    </item>
+
+</items>

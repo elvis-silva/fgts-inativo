@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FGTS Inativo</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">Sobre</string>
+    <string name="btn_ok">OK</string>
+    <string name="about_title">SOBRE</string>
+    <string name="share">Share</string>
+    <string name="img_desc">Descrition</string>
+    <string name="calendar">Saques</string>
+    <string name="calendar_title">CALENDÁRIO</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4768510961285493/5318861569</string>
+    <string name="interstitial_ad_id">ca-app-pub-4768510961285493/5192607167</string>
+    <string name="title_section1">Title Section 1</string>
+    <string name="title_section2">Title Section 2</string>
+    <string name="title_section3">Title Section 3</string>
+    <string name="title_section4">Title Section 4</string>
+    <string name="title_section5">Title Section 5</string>
+    <string name="title_section8">Title Section 8</string>
+    <string name="action_rate">Action rate</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="news">NOTÍCIAS</string>
+    <string name="avalie_me">Avalie-me</string>
+    <string name="mais">Mais</string>
+    <string name="info">Info</string>
+    <string name="more">Mais</string>
+    <string name="todo">TODO</string>
+    <string name="more_apps_info">Aplicativos sugeridos na Google Play</string>
+    <string name="text_text_text">Texto de exemplo</string>
+    <string name="app_version">2.3.1</string>
+</resources>
